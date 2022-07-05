@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-sundae",
+  "version": "1.0.0",
+  "private": true,
+  "description": "dynamic-sundae",
+  "author": "Claireyskillz",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.17.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
